@@ -1,0 +1,6 @@
+FASTGPT_URL = "http://8.222.137.190:3000"
+FASTGPT_TOKEN = "fastgpt-Sk9xDJxWMsMx3piPqP5ZE7uiPtpJShbj3vtjTS8zXu4OglwSTryuOGsRtCixo"
+FASTGPT_APP = "fastgpt-V53ncTFLNxXXYGM6FQ01FWQg4sEX74rjWVqG4ck1fWw4mKWWQWit4NvzfKNkR8HH9"
+
+
+# fastgpt-Sk9xDJxWMsMx3piPqP5ZE7uiPtpJShbj3vtjTS8zXu4OglwSTryuOGsRtCixo
